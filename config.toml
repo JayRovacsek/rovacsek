@@ -45,14 +45,6 @@ theme = "forty"
       name = "Nextcloud"
       url = "https://nextcloud.rovacsek.com"
 
-    [[params.navigation.links]]
-      name = "Setting up Nextcloud"
-      url = "https://nextcloud.rovacsek.com"
-
-    [[params.navigation.links]]
-      name = "Let Chaos Happen"
-      url = "https://en.wikipedia.org/wiki/Special:Random"
-
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
     # code below if you need more links. Buttons work in the same way.
@@ -96,18 +88,6 @@ theme = "forty"
       subtitle = "See some bad code here"
       image = "2.jpg"
       url = "https://github.com/JayRovacsek"
-
-    [[params.tiles.showcase]]
-      title = "Setting up Nextcloud"
-      subtitle = "See how to setup Nextcloud on your device here"
-      image = "3.jpg"
-      url = "https://github.com/JayRovacsek"
-
-    [[params.tiles.showcase]]
-      title = "Let Chaos Happen"
-      subtitle = "Random Wikipedia Articles?"
-      image = "4.jpg"
-      url = "https://en.wikipedia.org/wiki/Special:Random"
 
     # You can make more showcases by copy and pasting the code above
 
