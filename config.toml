@@ -68,7 +68,7 @@ theme = "forty"
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Hi, my name is Jay"
-    subtitle = "Infosec enthusiast, father and wannabe developer"
+    subtitle = "Technology enthusiast"
     image = "banner.jpg"
     buttonText = ""
 
@@ -86,7 +86,7 @@ theme = "forty"
 
     [[params.tiles.showcase]]
       title = "GitHub"
-      subtitle = "See some bad code here"
+      subtitle = "Code and stuff"
       image = "2.jpg"
       url = "https://github.com/JayRovacsek"
 
