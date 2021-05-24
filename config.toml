@@ -69,6 +69,7 @@ theme = "forty"
     # the 'static/img' folder.
     title = "Hi, my name is Jay"
     subtitle = "Infosec enthusiast, father and wannabe developer"
+    image = "banner.jpg"
     buttonText = ""
 
 
@@ -135,7 +136,7 @@ theme = "forty"
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "example@domain.com"
+    email = "contact-me@github.rovacsek.com"
 
     [[params.contact.phone]]
     title = "Phone"
