@@ -80,7 +80,7 @@ theme = "forty"
     
     [[params.tiles.showcase]]
       title = "Nextcloud"
-      subtitle = "Access our Nextcloud instance here"
+      subtitle = "Files and stuff"
       image = "1.jpg"
       url = "https://nextcloud.rovacsek.com"
 
